@@ -1,1 +1,1 @@
-export { default } from "file:///C:/Users/dsadm/Desktop/somativaSGAE/sgaeFront/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
+export { default } from "file:///C:/Users/dsadm/Desktop/somativa/somativaAndreFront/sgaeFront/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
