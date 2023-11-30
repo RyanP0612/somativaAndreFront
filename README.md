@@ -1,4 +1,3 @@
-ANDRÉ, O NODE_MODULES FOI APAGADO POR CONTA DO LIMITE DE 100 MB DO GIT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 
